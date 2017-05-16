@@ -1,0 +1,447 @@
+.yamm.navbar .nav .theme0.open > a, .yamm.navbar .nav .theme0.open > a:hover, .yamm.navbar .nav .theme0.open > a:focus, .yamm.navbar .nav .theme0 .dropdown-menu {
+    background-color: #12addb
+}
+
+
+
+.theme0 .yamm-content .thumbnails li a {
+    color: #c7ecf7
+}
+
+.yamm.navbar .nav .theme1.open > a, .yamm.navbar .nav .theme1.open > a:hover, .yamm.navbar .nav .theme1.open > a:focus, .yamm.navbar .nav .theme1 .dropdown-menu {
+    background-color: #777
+}
+
+.theme1 .yamm-content .thumbnails li a {
+    color: #dcdcdc
+}
+
+.yamm.navbar .nav .theme2.open > a, .yamm.navbar .nav .theme2.open > a:hover, .yamm.navbar .nav .theme2.open > a:focus, .yamm.navbar .nav .theme2 .dropdown-menu {
+    background-color: #009f81
+}
+
+.theme2 .yamm-content .thumbnails li a {
+    color: #bae5dd
+}
+
+.yamm.navbar .nav .theme3.open > a, .yamm.navbar .nav .theme3.open > a:hover, .yamm.navbar .nav .theme3.open > a:focus, .yamm.navbar .nav .theme3 .dropdown-menu {
+    background-color: #ff7f18
+}
+
+.yamm.navbar .nav .theme3 a {
+
+}
+
+.theme3 .yamm-content .thumbnails li a {
+    color: #ffe1c8
+}
+
+.yamm-content .thumbnails .caption h3, .yamm-content .thumbnails .caption h3 a {
+    color: #fff;
+}
+
+.yamm-content .thumbnails .change h3, .yamm-content .thumbnails .change h3 a{
+    color: #337ac4;
+    font-weight: bold;
+}
+
+
+
+.theme0 .yamm-content .thumbnails li a:hover, .theme1 .yamm-content .thumbnails li a:hover, .theme2 .yamm-content .thumbnails li a:hover, .theme3 .yamm-content .thumbnails li a:hover {
+    color: #fff;
+    text-decoration: underline
+}
+
+#mainNav {
+    margin: 2px 0 0
+}
+
+#mainNav .navbar {
+    border: none
+}
+
+.yamm {
+    display: block;
+    margin: 0
+}
+
+.yamm .nav, .yamm .dropup, .yamm .dropdown, .yamm .collapse {
+    position: static
+}
+
+.navi-bar {
+    float: right
+}
+
+.solution-bx {
+    padding: 0 17px 0 10px;
+    float: left;
+    color: #fff;
+    margin: 24px 10px 0 0;
+    text-transform: uppercase;
+    font-size: 15px
+}
+
+.yamm .nav {
+    float: left
+}
+
+.yamm .navbar-inner, .yamm .container {
+    position: relative;
+    font-family: 'Roboto Condensed', sans-serif
+}
+
+.yamm .navbar-inner .container {
+    width: auto
+}
+
+.yamm.navbar .nav > li {
+    display: block;
+    border: none !important
+}
+
+.yamm.navbar .nav > li > a {
+    padding: 23px 10px;
+    color: #666;
+    font-weight: 400;
+    word-wrap: initial
+}
+
+.thumbnail{
+    border: none !important;
+}
+
+.yamm.navbar .nav .open > a, .yamm.navbar .nav .open > a:hover, .yamm.navbar .nav .open > a:focus {
+    border: none;
+    color: #fff
+}
+
+.yamm.navbar .dropdown-menu {
+    border: none;
+    border-radius: 0;
+    font-size: 13px;
+    margin: -1px 0 0;
+   padding: 5px 0;
+    top: auto;
+}
+
+.yamm .tab0 .boxs {
+    left: 0;
+    right: 0
+}
+
+.yamm .tab0 .boxs .yamm-content .col-md-3 {
+    width: 25%
+}
+
+.yamm .tab1 .boxs {
+    left: 46.5%;
+    right: 25.8%;
+}
+
+.yamm .tab1 .boxs .yamm-content .col-md-3 {
+    width: 33.33%
+}
+
+.yamm .tab2 .boxs {
+    left: 53%;
+    right: 18%;
+}
+
+.yamm .tab2 .boxs .yamm-content .col-md-3 {
+    width: 25%
+}
+
+.yamm .tab3 .boxs {
+    left: 68%;
+    right: 6.4%;
+}
+
+.yamm .tab3 .boxs .yamm-content .col-md-3 {
+    width: 20%
+}
+
+.yamm .nav.pull-right .dropdown-menu {
+    right: 0
+}
+
+.yamm .yamm-content {
+    *zoom: 1
+}
+
+.yamm .yamm-content:before, .yamm .yamm-content:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+
+.yamm .yamm-content:after {
+    clear: both
+}
+
+.yamm.navbar .nav > li > .dropdown-menu:after, .yamm.navbar .nav > li > .dropdown-menu:before {
+    display: none
+}
+
+.yamm .dropdown.yamm-fullwidth .dropdown-menu {
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
+.yamm .nav > li.dropdown {
+    display: inline-block
+}
+
+.yamm .nav > li a.dropdown-toggle {
+    text-transform: uppercase
+}
+
+.yamm .yamm-content .col-md-3 {
+    width: 20%
+}
+
+.yamm .yamm-content .col-space .thumbnail {
+   width: 100%;
+    float: left;
+    background: none
+}
+
+.yamm-content .thumbnail .caption h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+#personalBtn .yamm-content .thumbnail .caption h3 a, #enterpriseBtn .yamm-content .thumbnail .caption h3 a, #schoolsBtn .yamm-content .thumbnail .caption h3 a, #businessBtn .yamm-content .thumbnail .caption h3 a {
+    color: #fff
+}
+
+.yamm-content .thumbnails li {
+    display: inline
+}
+
+.yamm-content .thumbnails .thumbnail {
+    margin: 0
+}
+
+.yamm-content .caption .submenu {
+    margin: 6px 0 0
+}
+
+.yamm-content .thumbnail .caption ul.submenu li {
+    margin: 2px 0;
+    clear: both;
+    font-size: 14px;
+    display: inline-block;
+    width: 100%
+}
+
+.yamm-content .thumbnail .caption ul.submenu li a {
+    display: block
+}
+
+.yamm-content .thumbnail .caption {
+    text-align: left
+}
+
+@media all and (min-width: 1200px) {
+
+
+    .yamm .nav > li.dropdown {
+        display: inline-block
+    }
+}
+
+@media (max-width: 969px) {
+    .yamm {
+        margin: 0
+    }
+
+    .yamm .dropdown.yamm-fullwidth .dropdown-menu {
+        width: auto
+    }
+
+    .navi-bar {
+        float: right
+    }
+
+    .yamm .dropdown-menu > li > ul {
+        display: block
+    }
+
+    .yamm .nav {
+        text-align: center
+    }
+
+    .yamm .yamm-content .col-space .thumbnail {
+       width: 100%;
+        float: left
+    }
+
+    .yamm .yamm-content .col-md-3 {
+        width: auto
+    }
+
+    .yamm .open > .dropdown-menu {
+        width: 100%
+    }
+
+    .yamm-content .thumbnails .thumbnail {
+        margin: 0 0 25px
+    }
+
+    .yamm-content .thumbnails .thumbnail img {
+        float: left;
+        width: 35%;
+        margin: 0 25px 0 0
+    }
+
+    .yamm-content .thumbnail .caption {
+        float: left;
+        display: inline;
+        width: 50%
+    }
+
+    .thumbnail .caption {
+        padding: 0 9px
+    }
+
+    .yamm .tab1 .boxs {
+        left: 0;
+        right: 0
+    }
+
+    .yamm.navbar .nav > li > a {
+        padding: 14px 10px
+    }
+
+    .solution-bx {
+        margin: 12px 0 0;
+        padding: 0 10px 0 5px;
+        font-size: 15px
+    }
+}
+
+@media all and (max-width: 767px) {
+    #mainNav {
+        border-top: 1px solid #eee;
+        padding: 7px 0 4px
+    }
+
+    .yamm {
+        float: none;
+        min-height: 1px
+    }
+
+    .yamm .nav {
+        padding: 0;
+        float: none;
+        text-align: center
+    }
+
+    .navi-bar {
+        float: none
+    }
+
+    .yamm.navbar .nav > li > a {
+        padding: 13px 16px
+    }
+
+    .yamm .navbar-inner > .container {
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    .yamm.navbar .nav > li > a {
+        padding: 6px 10px;
+        font-size: 14px
+    }
+
+    .yamm-content .thumbnails .col-space {
+        overflow: hidden
+    }
+
+    .yamm .yamm-content .col-md-3, .yamm .yamm-content .col-sm-3 {
+        width: 50%
+    }
+
+
+    .yamm .yamm-content .col-space .thumbnail {
+        margin: 0 0 20px
+    }
+
+    .yamm .yamm-content .col-space .thumbnail:last-child {
+        margin: 0
+    }
+
+    .yamm-content .row {
+        margin: 0;
+    }
+
+    .yamm-content .thumbnail .caption h3 {
+        display: inline-block
+    }
+
+    .yamm-content .thumbnail .caption h3 a {
+        display: block
+    }
+
+    .yamm-content .thumbnails .thumbnail img {
+        display: none
+    }
+
+    .solution-bx {
+        padding: 0 0 6px;
+        width: 100%;
+        text-align: center;
+        margin: 0
+    }
+
+    .bx-caret {
+        display: none
+    }
+
+    .yamm .nav > li.dropdown:last-child {
+        display: inline-block
+    }
+
+    .yamm-content .thumbnails .col-space {
+        padding: 0
+    }
+
+    .yamm-content .thumbnail .caption {
+        display: block;
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 0
+    }
+
+    .yamm-content .thumbnails .caption h3, .yamm-content .thumbnails .caption h3 a {
+        display: block
+    }
+
+    .yamm-content .thumbnails .caption h3 {
+        padding: 7px 10px 5px;
+    }
+
+    .yamm-content .thumbnails .caption .submenu {
+        margin: 5px 0 0 15px
+    }
+
+    .yamm-content .thumbnail .caption ul.submenu li {
+        margin: 0
+    }
+
+    .yamm-content .thumbnail .caption ul.submenu li a {
+        padding: 5px 0;
+    }
+
+    .yamm-content .thumbnail .caption ul.submenu li:last-child a {
+        background: none
+    }
+
+    .yamm-content .thumbnail .caption ul.submenu li a:hover {
+        text-decoration: none
+    }
+}

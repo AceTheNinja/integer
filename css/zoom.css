@@ -1,0 +1,27 @@
+.zoom-effect-container {
+    float: none;
+    position: absolute;
+    width: 250px;
+    height: 136px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.image-card {
+  position: relative;
+  top: 0;
+  left: 0;
+  
+  
+}
+
+.image-card img {
+  -webkit-transition: 1.5s ease;
+  transition: 1.5s ease;
+  height: 176px;
+}
+
+.zoom-effect-container:hover .image-card img {
+  -webkit-transform: scale(1.00);
+  transform: scale(2.00);
+}

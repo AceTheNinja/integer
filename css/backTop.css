@@ -1,0 +1,25 @@
+.scrollup{
+			width:40px;
+			height:40px;			
+			text-indent:-9999px;
+			position:fixed;
+			bottom:50px;
+                        left: 50px;
+			display:none;			
+			background: url('../images/icon_top.png') no-repeat ;
+                        z-index: 999999;
+		}
+@media (min-width: 300px) and (max-width: 500px) 
+{ 
+    .scrollup{
+			width:20px;
+			height:20px;			
+			text-indent:-9999px;
+			position:fixed;
+			bottom:70px;
+			right:10px;
+                        left: auto;
+                        background-size: 100% 100%;
+                        z-index: 999999;
+		}
+}

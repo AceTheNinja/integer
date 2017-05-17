@@ -683,6 +683,10 @@ header.nav.hide-menu {
     padding-left: 5%;
 }
 
+.portfolio-inner .row .col-sm-12 {
+    background: #12ADDB;
+}
+
 .portfolio-inner  .title {
     font-weight: bold;
     color: white;

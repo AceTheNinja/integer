@@ -43,7 +43,7 @@
                             <img src="../images/clients/college14.jpg" alt="dell">
                         </div>
                         
-                        <div class="col-lg-3" style="float: right;">
+                        <div class="col-lg-3">
                             <img src="../images/clients/college8.jpg" alt="dell">
                         </div>
                 </div>

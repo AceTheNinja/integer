@@ -44,7 +44,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 home-inner">
-                    <h1 class="heading dsim-bebas white slider-text-box" style="font-size:74px;line-height:1;margin:10px 0 0 0;padding:0;letter-spacing:.2px"><span class="bg-text-1">INDIA’S 1 ST AND ONLY ONE-STOP PLATFORM TRAINING COMPANY</span></h1>
+                    <h1 class="heading dsim-bebas white slider-text-box" style="font-size:74px;line-height:1;margin:10px 0 0 0;padding:0;letter-spacing:.2px"><span class="bg-text-1">INDIA’S 1<sup>st</sup> AND ONLY ONE-STOP PLATFORM TRAINING COMPANY</span></h1>
                     <h3 class="small-heading dsim-font white" style="font-size:32px;line-height:1.2;padding:0;font-weight:bold"><span class="bg-text-1">9000+ Students trained, 100+ Institutions reached, 5000+ Interns, 4.8/5 rating</h3>
                 </div>
             </div>
@@ -254,7 +254,7 @@
                                 <div class="funfact-box-inner">
                                     <div class="clearfix ">
                                         <i class="fa fa-star"></i>
-                                        <span class="num">4.8/10</span>
+                                        <span class="num">4.8/5</span>
                                     </div>
                                     <div class="context">Ratings by Trainees</div>
                                 </div>

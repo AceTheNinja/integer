@@ -1,4 +1,4 @@
-<?php /*require_once 'includes/visitorcount.php';*/?>
+<?php require_once 'includes/visitorcount.php';?>
 <a href="#" class="scrollup btn-floating">Scroll</a>
 <footer id="footer" class="root-sec footer-wrap">
     <div class="container">
@@ -15,7 +15,7 @@
                     <p class="regular-text"><i class="fa fa-users"></i>Visior's count : <?php echo $v_count; ?></p>
                 </div>
                 <ul class="left social-icons">
-                    <li><a href="http://www.facebook.com/INTEGER.Innovation" title="INTEGER Innovation facebook" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                    <li><a href="https://www.facebook.com/Integer-Innovation-415146785515466/" title="INTEGER Innovation facebook" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li><a href="https://www.linkedin.com/company/integer-innovation" target="_parent" title="INTEGER Innovation linkdin" class="tooltips tooltipped linkedin" data-position="top" data-delay="50" data-tooltip="Linkdin"><i class="fa fa-linkedin"></i></a>
                     </li>

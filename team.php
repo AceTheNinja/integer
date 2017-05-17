@@ -50,8 +50,8 @@ require_once 'includes/header.php';
                         <p class="name">Rishav Agarwal</p>
                         <p class="title">Business Development Manager | Marketing Head</p>
                         <p class="social">
-                            <a href="https://www.facebook.com/rishav.agarwal.5621" class="link facebook" title="viren facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
-                            <a href="https://www.linkedin.com/in/rishav-agarwal/" class="link linkdin" target="_parent" title="Viren linkdin"><span class="fa fa-linkedin-square"></span></a>
+                            <a href="https://www.facebook.com/rishav.agarwal.5621" class="link facebook" title="Rishav facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
+                            <a href="https://www.linkedin.com/in/rishav-agarwal/" class="Rink linkdin" target="_parent" title="rishav linkdin"><span class="fa fa-linkedin-square"></span></a>
                         </p>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ require_once 'includes/header.php';
                         <p class="name">Palak Arora</p>
                         <p class="title">Designing Head</p>
                         <p class="social">
-                            <a href="https://www.facebook.com/sweetarora1994" class="link facebook" title="viren facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
-                            <a href="#" class="link linkdin" target="_parent" title="Viren linkdin"><span class="fa fa-linkedin-square"></span></a>
+                            <a href="https://www.facebook.com/sweetarora1994" class="link facebook" title="Palak facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
+                            <a href="#" class="link linkdin" target="_parent" title="Palak linkdin"><span class="fa fa-linkedin-square"></span></a>
                         </p>
                     </div>
                 </div>
@@ -82,8 +82,8 @@ require_once 'includes/header.php';
                         <p class="name">Mridul Sharma</p>
                         <p class="title">Training Head</p>
                         <p class="social">
-                            <a href="https://www.facebook.com/viru.sharma.14" class="link facebook" title="viren facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
-                            <a href="#" class="link linkdin" target="_parent" title="Viren linkdin"><span class="fa fa-linkedin-square"></span></a>
+                            <a href="https://www.facebook.com/viru.sharma.14" class="link facebook" title="Mridul facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
+                            <a href="#" class="link linkdin" target="_parent" title="Mridul linkdin"><span class="fa fa-linkedin-square"></span></a>
                         </p>
                     </div>
                 </div>

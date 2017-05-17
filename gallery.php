@@ -23,7 +23,7 @@
 
 </head>
 <?php
-require_once 'includes/navbar.php';
+require_once 'includes/header.php';
 ?>
 <!-- Portfolio Section start -->
     <section id="portfolio" class="scroll-section root-sec white portfolio-wrap">

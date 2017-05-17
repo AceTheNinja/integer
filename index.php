@@ -304,7 +304,7 @@
 </section>
 
 <section id="step-1" class="section-step step-wrap">
-    <div class="container step wow bounceInLeft" data-wow-delay="1.2s">
+    <div class="container step wow bounceInLeft" data-wow-delay="0.5s">
         <div class="row">
             <!-- Step Description Starts -->
             <div class="col-md-8 step-desc">
@@ -375,7 +375,7 @@
 
 <!--=== Step-2 section Starts ===-->
 <section id="step-2" class="section-step step-even step-wrap  " >
-    <div class="container step wow bounceInRight" data-wow-delay="1.2s" >
+    <div class="container step wow bounceInRight" data-wow-delay="0.5s" >
         <div class="row">
             <!-- Step Description Starts -->
             <div class="col-md-8 step-desc black-text">
@@ -426,8 +426,8 @@
     </div>
 </section>
 
-<section id="step-1" class="section-step step-wrap" >
-    <div class="container step wow bounceInLeft" data-wow-delay="1.2s">
+<section id="step-3" class="section-step step-wrap" >
+    <div class="container step wow bounceInLeft" data-wow-delay="0.5s">
         <div class="row">
             <!-- Step Description Starts -->
             <div class="col-md-8 step-desc">
@@ -475,8 +475,8 @@
         </div>
     </div>
 </section>
-<section id="step-2" class="section-step step-even step-wrap  " >
-    <div class="container step wow bounceInRight" data-wow-delay="1.2s" >
+<section id="step-4" class="section-step step-even step-wrap  " >
+    <div class="container step wow bounceInRight" data-wow-delay="0.5s" >
         <div class="row">
             <!-- Step Description Starts -->
             <div class="col-md-8 step-desc black-text">
@@ -522,8 +522,8 @@
         </div>
     </div>
 </section>
-<section id="step-3" class="section-step step-wrap  " >
-    <div class="container step wow bounceInRight" data-wow-delay="1.2s" >
+<section id="step-5" class="section-step step-wrap  " >
+    <div class="container step wow bounceInRight" data-wow-delay="0.5s" >
         <div class="row">
             <!-- Step Description Starts -->
             <div class="col-md-8 step-desc black-text">
@@ -649,7 +649,7 @@
 <script src="http://leanmodal.finelysliced.com.au/js/jquery.leanModal.min.js" type="text/javascript"></script>
 <script src="js/lazyload.js"></script>
 <script>
-    console.log("hello2");
+    
     $(function () {
         new WOW().init();
         console.log("hello");

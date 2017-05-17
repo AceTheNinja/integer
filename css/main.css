@@ -1112,6 +1112,10 @@ header.nav.hide-menu {
     display: block;
     background-color: inherit;
 }
+
+.portfolio-bottom img {
+    height: 180px;
+}
 .effect-zoe {
     position: relative;
     float: left;

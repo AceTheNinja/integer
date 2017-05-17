@@ -1060,10 +1060,6 @@ header.nav.hide-menu {
 /* 9. Portfolio Styles
  ----------------------------------- */
 
-.portfolio-wrap {
-    padding-bottom: 120px;
-}
-
 .portfolio-top {
     padding-bottom: 3px;
     margin-bottom: 50px;
@@ -1494,7 +1490,7 @@ figure.effect-zoe:hover h2 {
 
 #funfacts .sec-inner {
     background: rgba(255,255,255,1);
-    height: 100vh;
+    height: 65vh;
     width: 100vw;
 }
 

@@ -269,6 +269,8 @@
                                         </li>
                                     </ul>
                                 </li>
+                                <li class="dropdown tab0 left-tb theme0"> <a href="course.php">Courses</a>
+                                </li>
                                 <li class="dropdown tab2 left-tb theme2"><a href="#" class="dropdown-toggle"
                                                                             data-toggle="dropdown"> Start-Ups <b
                                                 class="caret"></b> </a><!--Start-Ups-->

@@ -291,11 +291,11 @@
 
 
 
-<section id="about11" class="scroll-section root-sec brand-bg lighten-5">
+<section id="about11" class="scroll-section root-sec brand-bg lighten-5" style="background-color: #18C9D2">
     <div class="container">
         <div class="row">
             <div class="col-md-12 center-align foundertext">
-                <h3 class="title" style="color: #18C9D2;">What We Do</h3>
+                <h3 class="title">What We Do</h3>
             </div>
 
         </div>

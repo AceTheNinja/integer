@@ -51,7 +51,7 @@ require_once 'includes/header.php';
                         <p class="title">Business Development Manager | Marketing Head</p>
                         <p class="social">
                             <a href="https://www.facebook.com/rishav.agarwal.5621" class="link facebook" title="Rishav facebook" target="_parent"><span class="fa fa-facebook-square"></span></a>
-                            <a href="https://www.linkedin.com/in/rishav-agarwal/" class="Rink linkdin" target="_parent" title="rishav linkdin"><span class="fa fa-linkedin-square"></span></a>
+                            <a href="https://www.linkedin.com/in/rishav-agarwal/" class="link linkdin" target="_parent" title="rishav linkdin"><span class="fa fa-linkedin-square"></span></a>
                         </p>
                     </div>
                 </div>

@@ -271,6 +271,8 @@
                                 </li>
                                 <li class="dropdown tab0 left-tb theme0"> <a href="course.php">COURSES</a>
                                 </li>
+                                <li class="dropdown tab0 left-tb theme0"> <a href="https://integerinnovationin.wordpress.com/" target='_blank'>BLOG</a>
+                                </li>
                                 <li class="dropdown tab2 left-tb theme2"><a href="#" class="dropdown-toggle"
                                                                             data-toggle="dropdown"> Start-Ups <b
                                                 class="caret"></b> </a><!--Start-Ups-->

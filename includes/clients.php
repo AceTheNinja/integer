@@ -37,9 +37,6 @@
                             <img src="../images/clients/college11.jpg" alt="dell">
                         </div>
                         <div class="col-lg-3 center-align" style="float: right;">
-                            <img src="../images/clients/college12.jpg" alt="dell">
-                        </div>
-                        <div class="col-lg-3 center-align" style="float: right;">
                             <img src="../images/clients/college14.jpg" alt="dell">
                         </div>
                         
